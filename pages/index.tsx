@@ -13,7 +13,7 @@ export default function Home({ posts }: Props) {
   return (
     <div className='max-w-8xl mx-auto'>
       <Head>
-        <title>Created By Chi Blog</title>
+        <title>Created By Chi</title>
         <link rel='icon' href='/favicon.ico' />
       </Head>
 
